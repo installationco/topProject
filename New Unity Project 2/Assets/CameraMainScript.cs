@@ -4,14 +4,9 @@ using System.Collections;
 public class CameraMainScript : MonoBehaviour {
 
     public GameObject Cap;
-
-	void Start () 
-    {
-	
-	}
 	
 	void Update () 
     {
-        this.GetComponent<Rigidbody2D>().velocity = (Cap.transform.position - this.transform.position) * 5;
+        this.GetComponent<Rigidbody2D>().velocity = (Cap.transform.position - this.transform.position) * 10;
 	}
 }

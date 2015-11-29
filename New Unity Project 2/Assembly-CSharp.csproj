@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraMainScript.cs" />
+     <Compile Include="Assets\SurikenScript.cs" />
      <Compile Include="Assets\hui.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program files/Unity523/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
