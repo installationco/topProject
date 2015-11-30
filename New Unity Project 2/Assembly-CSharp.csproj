@@ -48,11 +48,17 @@
      <Compile Include="Assets\CameraMainScript.cs" />
      <Compile Include="Assets\SurikenScript.cs" />
      <Compile Include="Assets\hui.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/Program files/Unity523/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program files/Unity523/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>E:/Program files/Unity523/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>E:/Program files/Unity523/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>E:/Program files/Unity523/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
